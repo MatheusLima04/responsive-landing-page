@@ -36,7 +36,7 @@ header img{
     width: 100%;
     height: 557px;
     padding: 0 2%;
-    background-image: url("../images/header_bg.png");
+    background-image: url("header_bg.png");
     background-size: cover;
     background-position: center;
 }
@@ -154,7 +154,7 @@ header img{
 .arrow{
     width: 40px;
     height: 40px;
-    background-image: url("../images/arrow.png");
+    background-image: url("arrow.png");
     background-size: 100% 100%;
     position: relative;
     top: 68px;
