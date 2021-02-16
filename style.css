@@ -157,7 +157,7 @@ header img{
     background-image: url("arrow.png");
     background-size: 100% 100%;
     position: relative;
-    top: 68px;
+    top: 60px;
     left: calc(50% - 20px);
 }
 
